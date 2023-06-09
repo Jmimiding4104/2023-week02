@@ -1,0 +1,60 @@
+img {
+  vertical-align: middle;
+}
+
+.container {
+  width: 1296px;
+  margin: 0 auto;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-direction-column {
+  flex-direction: column;
+}
+
+.justify-content-space-between {
+  justify-content: space-between;
+}
+
+.justify-content-end {
+  justify-content: end;
+}
+
+.align-items-end {
+  align-items: flex-end;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.bg-dark {
+  background-color: #000000;
+}
+
+.padding-y-72 {
+  padding: 72px 0;
+}
+
+.padding-y-160 {
+  padding: 160px 0;
+}
+
+.padding-y-40 {
+  padding: 40px 0px;
+}
+
+.padding-e-24 {
+  padding-right: 24px;
+}
+
+.padding-b-28 {
+  padding-bottom: 28px;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
+}/*# sourceMappingURL=utility.css.map */

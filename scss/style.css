@@ -1,0 +1,119 @@
+body {
+  font-family: "Bruno Ace SC", cursive;
+  text-decoration: none;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+}
+
+header {
+  padding: 40px 0 20px;
+}
+header a {
+  color: white;
+  line-height: 150%;
+}
+
+.title .title-text {
+  margin: auto 0;
+  width: 636px;
+}
+.title p {
+  font-size: 64px;
+  line-height: 150%;
+}
+.title h1 {
+  text-align: center;
+  color: #00ffa3;
+  font-size: 128px;
+  line-height: 150%;
+}
+
+.introduction {
+  background-image: url(https://github.com/hexschool/2022-web-layout-training/blob/main/2023week2/background-img.png?raw=true);
+}
+.introduction .text {
+  width: 526px;
+}
+.introduction h2 {
+  font-size: 64px;
+  line-height: 150%;
+  margin-bottom: 36px;
+}
+.introduction p {
+  font-size: 24px;
+  line-height: 150%;
+  margin-bottom: 32px;
+}
+
+.about {
+  color: black;
+}
+.about .box {
+  max-width: 53.9%;
+}
+.about li {
+  width: 274px;
+  border: whitesmoke solid 1px;
+  padding: 12px;
+  margin: 24px;
+  ont-size: 20px;
+  line-height: 150%;
+}
+.about .text {
+  width: 526px;
+}
+.about .text h2 {
+  font-size: 64px;
+  line-height: 150%;
+}
+.about .text p {
+  font-size: 24px;
+  line-height: 150%;
+}
+
+.contant {
+  padding: 96px 0;
+  background-image: linear-gradient(to bottom, #050014, rgba(1, 2, 30, 0.8901960784));
+}
+.contant h2 {
+  font-size: 64px;
+  line-height: 150%;
+}
+.contant span {
+  font-size: 80px;
+  margin-left: 28.5px;
+}
+
+.projects {
+  color: black;
+}
+.projects h2 {
+  font-size: 64px;
+  line-height: 150%;
+  width: 746px;
+}
+.projects p {
+  width: 636px;
+  font-size: 16px;
+  line-height: 150%;
+}
+.projects a {
+  font-size: 16px;
+  line-height: 150%;
+  padding: 12px 24px;
+  width: 148px;
+  color: white;
+  background-color: #050014;
+  border-radius: 50px;
+  cursor: pointer;
+}
+
+footer {
+  margin: 0 auto;
+}
+footer .text {
+  text-align: center;
+}/*# sourceMappingURL=style.css.map */
