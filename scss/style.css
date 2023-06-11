@@ -2,6 +2,7 @@ body {
   font-family: "Bruno Ace SC", cursive;
   text-decoration: none;
   color: white;
+  line-height: 1.5;
 }
 
 a {
@@ -13,7 +14,6 @@ header {
 }
 header a {
   color: white;
-  line-height: 150%;
 }
 
 .title .title-text {
@@ -22,13 +22,11 @@ header a {
 }
 .title p {
   font-size: 64px;
-  line-height: 150%;
 }
 .title h1 {
   text-align: center;
   color: #00ffa3;
   font-size: 128px;
-  line-height: 150%;
 }
 
 .introduction {
@@ -39,12 +37,10 @@ header a {
 }
 .introduction h2 {
   font-size: 64px;
-  line-height: 150%;
   margin-bottom: 36px;
 }
 .introduction p {
   font-size: 24px;
-  line-height: 150%;
   margin-bottom: 32px;
 }
 
@@ -60,18 +56,15 @@ header a {
   padding: 12px;
   margin: 24px;
   font-size: 20px;
-  line-height: 150%;
 }
 .about .text {
   width: 526px;
 }
 .about .text h2 {
   font-size: 64px;
-  line-height: 150%;
 }
 .about .text p {
   font-size: 24px;
-  line-height: 150%;
 }
 
 .contant {
@@ -80,7 +73,6 @@ header a {
 }
 .contant h2 {
   font-size: 64px;
-  line-height: 150%;
 }
 .contant span {
   font-size: 80px;
@@ -92,17 +84,14 @@ header a {
 }
 .projects h2 {
   font-size: 64px;
-  line-height: 150%;
   width: 746px;
 }
 .projects p {
   width: 636px;
   font-size: 16px;
-  line-height: 150%;
 }
 .projects a {
   font-size: 16px;
-  line-height: 150%;
   padding: 12px 24px;
   width: 148px;
   color: white;
